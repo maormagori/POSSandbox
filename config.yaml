@@ -1,0 +1,4 @@
+printer:
+  type: Usb
+  idVendor: 0x0416
+  idProduct: 0x5011
